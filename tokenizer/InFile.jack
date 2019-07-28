@@ -1,0 +1,7 @@
+let aaa = bbbbb;
+if(cc < d) { 
+    eeeeee = ffffff; 
+    gggggggg = hhhhhhhhh; 
+    i = 987;
+    jj = "ABC";
+}
