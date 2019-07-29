@@ -1,0 +1,5 @@
+class InFile2 {
+    while(true) {
+        do Infile.Run(First, Second, Third);
+    }
+}

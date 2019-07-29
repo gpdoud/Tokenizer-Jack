@@ -5,7 +5,7 @@ namespace DSI.Tokenizer {
     class Tokenizer {
 
         System.Collections.Generic.List<char> operators = new System.Collections.Generic.List<char> 
-            { '=', '{', '}', '[', ']', ';', '<', '>', '(', ')', '+', '-', '*', '/', '&', '|', '~' };
+            { '=', '{', '}', '[', ']', '.', ',', ';', '<', '>', '(', ')', '+', '-', '*', '/', '&', '|', '~' };
         System.Collections.Generic.List<char> source;
         int pos = 0;
 

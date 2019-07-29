@@ -1,0 +1,24 @@
+<Tokens>
+  <Token Type="Keyword" Value="class" />
+  <Token Type="Identifier" Value="InFile2" />
+  <Token Type="Symbol" Value="{" />
+  <Token Type="Keyword" Value="while" />
+  <Token Type="Symbol" Value="(" />
+  <Token Type="Keyword" Value="true" />
+  <Token Type="Symbol" Value=")" />
+  <Token Type="Symbol" Value="{" />
+  <Token Type="Keyword" Value="do" />
+  <Token Type="Identifier" Value="Infile" />
+  <Token Type="Symbol" Value="." />
+  <Token Type="Identifier" Value="Run" />
+  <Token Type="Symbol" Value="(" />
+  <Token Type="Identifier" Value="First" />
+  <Token Type="Symbol" Value="," />
+  <Token Type="Identifier" Value="Second" />
+  <Token Type="Symbol" Value="," />
+  <Token Type="Identifier" Value="Third" />
+  <Token Type="Symbol" Value=")" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Symbol" Value="}" />
+  <Token Type="Symbol" Value="}" />
+</Tokens>

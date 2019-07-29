@@ -1,31 +1,31 @@
-<Terms>
-  <Keyword>let</Keyword>
-  <Identifier>aaa</Identifier>
-  <Symbol>=</Symbol>
-  <Identifier>bbbbb</Identifier>
-  <Symbol>;</Symbol>
-  <Keyword>if</Keyword>
-  <Symbol>(</Symbol>
-  <Identifier>cc</Identifier>
-  <Symbol>&lt;</Symbol>
-  <Identifier>d</Identifier>
-  <Symbol>)</Symbol>
-  <Symbol>{</Symbol>
-  <Identifier>eeeeee</Identifier>
-  <Symbol>=</Symbol>
-  <Identifier>ffffff</Identifier>
-  <Symbol>;</Symbol>
-  <Identifier>gggggggg</Identifier>
-  <Symbol>=</Symbol>
-  <Identifier>hhhhhhhhh</Identifier>
-  <Symbol>;</Symbol>
-  <Identifier>i</Identifier>
-  <Symbol>=</Symbol>
-  <IntegerConstant>987</IntegerConstant>
-  <Symbol>;</Symbol>
-  <Identifier>jj</Identifier>
-  <Symbol>=</Symbol>
-  <StringConstant>ABC</StringConstant>
-  <Symbol>;</Symbol>
-  <Symbol>}</Symbol>
-</Terms>
+<Tokens>
+  <Token Type="Keyword" Value="let" />
+  <Token Type="Identifier" Value="aaa" />
+  <Token Type="Symbol" Value="=" />
+  <Token Type="Identifier" Value="bbbbb" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Keyword" Value="if" />
+  <Token Type="Symbol" Value="(" />
+  <Token Type="Identifier" Value="cc" />
+  <Token Type="Symbol" Value="&lt;" />
+  <Token Type="Identifier" Value="d" />
+  <Token Type="Symbol" Value=")" />
+  <Token Type="Symbol" Value="{" />
+  <Token Type="Identifier" Value="eeeeee" />
+  <Token Type="Symbol" Value="=" />
+  <Token Type="Identifier" Value="ffffff" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Identifier" Value="gggggggg" />
+  <Token Type="Symbol" Value="=" />
+  <Token Type="Identifier" Value="hhhhhhhhh" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Identifier" Value="i" />
+  <Token Type="Symbol" Value="=" />
+  <Token Type="IntegerConstant" Value="987" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Identifier" Value="jj" />
+  <Token Type="Symbol" Value="=" />
+  <Token Type="StringConstant" Value="ABC" />
+  <Token Type="Symbol" Value=";" />
+  <Token Type="Symbol" Value="}" />
+</Tokens>
